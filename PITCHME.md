@@ -5,7 +5,8 @@
 って書きたいんだけど、それだと全部大文字になっちゃうんだよ。
 設定でどうにかできるかもしれないけど、分からなかったから、こうした。
 -->
-##### ～ほとんどのエンジニアには解けるが、下位10％のダメなエンジニアにだけ解けないパズル？～
+　  
+###### ～ほとんどのエンジニアには解けるが、下位10％のダメなエンジニアにだけ解けないパズル？～
 
 　
 　  
@@ -24,10 +25,10 @@
 　  
 **趣味**：リアル脱出ゲーム
 ---
-発端はこれ。
+発端はこれ。  
 http://tango-ruby.hatenablog.com/entry/2015/11/30/122814
 
-+++?image=assets/001.png
+<img src="assets/001.png"/>  
 ---
 ### これは？
 　  
@@ -42,7 +43,7 @@ http://tango-ruby.hatenablog.com/entry/2015/11/30/122814
 ---
 http://challenge-your-limits.herokuapp.com/
 
----?image=assets/002.jpg
+<img src="assets/002.png"/>  
 
 curl使えばいいよ！という
 出題者からのメッセージ。
@@ -50,7 +51,7 @@ curl使えばいいよ！という
 しかし、Windowsでcurlを叩くという行為は、
 実は、それなりにハードルが高い。
 ---
----?image=assets/003.jpg
+<img src="assets/003.png"/>  
 まず、コマンドプロンプトからは使えない。
 ---
 Power Shell 使えば行けるんじゃね？
@@ -60,7 +61,7 @@ Power Shellの curlは、
 
 そのためか、第二関門あたりで行き詰り、正解までたどり着くことが出来ない。
 ---
----?image=assets/004.jpg
+<img src="assets/004.png"/>  
 Postmanを使えば解けます。
 ---
 でも、出題者の意図通り、curlで解いてみたい。
@@ -71,14 +72,14 @@ Postmanを使えば解けます。
 ---
 しかし、これだと厳密には Windowsを使っているとは言えない。
 ---
-何とか、
-「Windowsで」
-「curlを使って」
+何とか、  
+「Windowsで」  
+「curlを使って」  
 解きたい！
 ---
 という訳で、辿り着いた答え。
 ---
----?image=assets/005.jpg
+<img src="assets/005.png"/>  
 git bush！
 ---
 無事に正解に辿り着けました！
