@@ -102,7 +102,7 @@ Webエンジニアにとっては何でもない行為でも、
 Windowsユーザにとっては、  
 それなりにハードルが高かったりします。
 ---
-#### その他、Windows辛みポイント
+<h4 style="text-transform:none;">その他、Windows辛みポイント</h3>
 　  
 * Home Editionでは Dockerが使えない。
 * Vagrantを使い、ホストとゲストの共有ディレクトリを作業場所にしていると、npmがコケる。
