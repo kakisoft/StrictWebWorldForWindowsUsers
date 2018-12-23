@@ -21,7 +21,7 @@ footnote :  "© 2018 kakisoft"
 mousewheel : true
 
 #Transition Setting(遷移時のアクション。convex, concave, default, fade, none, slide, zoom が設定可)
-#transition : fade
+transition : slide
 
 #Vertical Center Setting（falseで上詰め）
 #vertical-center : false
